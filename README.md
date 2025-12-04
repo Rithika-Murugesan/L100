@@ -5,7 +5,7 @@ What This Repository Covers?
 3. **Git Basics** — local repo, remote repo, cloning, staging, committing, pushing  
 4. **Tagging & Versioning**  
 5. **Branching and Merging** — merge, rebase, reset, revert  
-6. **Collaboration** — pull requests, forks, workflows
+6. **Collaboration** — pull requests, workflows
 
 ## Progress Timeline (01-12-2025 to 03-12-2025)
 ### **Day 1 — 01 Dec 2025**
@@ -40,7 +40,7 @@ What This Repository Covers?
 - Continued organising documentation
 
 **Time Spent:** **7 hours**  
-**Status:** *Work in Progress*
+**Status:** *Completed*
 
 
 
