@@ -1,5 +1,5 @@
 
-package OOP.Inheritance.Java;
+package L100.OOP.Inheritance.Single_Inheritance.Java;
 
 class Student {
     int id;
