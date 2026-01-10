@@ -1,0 +1,15 @@
+C:\TCE_EI\L100\OOP\Association\C#\bin\Debug\net9.0\C#.exe
+C:\TCE_EI\L100\OOP\Association\C#\bin\Debug\net9.0\C#.deps.json
+C:\TCE_EI\L100\OOP\Association\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\TCE_EI\L100\OOP\Association\C#\bin\Debug\net9.0\C#.dll
+C:\TCE_EI\L100\OOP\Association\C#\bin\Debug\net9.0\C#.pdb
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.sourcelink.json
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.dll
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\refint\C#.dll
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.pdb
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\TCE_EI\L100\OOP\Association\C#\obj\Debug\net9.0\ref\C#.dll
