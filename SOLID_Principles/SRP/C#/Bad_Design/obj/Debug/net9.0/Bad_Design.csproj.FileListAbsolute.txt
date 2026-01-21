@@ -1,0 +1,15 @@
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\bin\Debug\net9.0\Bad_Design.exe
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\bin\Debug\net9.0\Bad_Design.deps.json
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\bin\Debug\net9.0\Bad_Design.runtimeconfig.json
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\bin\Debug\net9.0\Bad_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\bin\Debug\net9.0\Bad_Design.pdb
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.AssemblyInfoInputs.cache
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.AssemblyInfo.cs
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.csproj.CoreCompileInputs.cache
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.sourcelink.json
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\refint\Bad_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.pdb
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\Bad_Design.genruntimeconfig.cache
+C:\TCE_EI\L100\SOLID_Principles\C#\Bad_Design\obj\Debug\net9.0\ref\Bad_Design.dll

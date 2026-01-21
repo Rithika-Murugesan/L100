@@ -1,0 +1,15 @@
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\bin\Debug\net9.0\Good_Design.exe
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\bin\Debug\net9.0\Good_Design.deps.json
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\bin\Debug\net9.0\Good_Design.runtimeconfig.json
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\bin\Debug\net9.0\Good_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\bin\Debug\net9.0\Good_Design.pdb
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.GeneratedMSBuildEditorConfig.editorconfig
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.AssemblyInfoInputs.cache
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.AssemblyInfo.cs
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.csproj.CoreCompileInputs.cache
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.sourcelink.json
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\refint\Good_Design.dll
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.pdb
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\Good_Design.genruntimeconfig.cache
+C:\TCE_EI\L100\SOLID_Principles\OCP\C#\Good_Design\obj\Debug\net9.0\ref\Good_Design.dll
