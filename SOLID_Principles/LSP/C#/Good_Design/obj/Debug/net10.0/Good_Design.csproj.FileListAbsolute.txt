@@ -1,0 +1,15 @@
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/bin/Debug/net10.0/Good_Design
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/bin/Debug/net10.0/Good_Design.deps.json
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/bin/Debug/net10.0/Good_Design.runtimeconfig.json
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/bin/Debug/net10.0/Good_Design.dll
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/bin/Debug/net10.0/Good_Design.pdb
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.AssemblyInfoInputs.cache
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.AssemblyInfo.cs
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.csproj.CoreCompileInputs.cache
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.sourcelink.json
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.dll
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/refint/Good_Design.dll
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.pdb
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/Good_Design.genruntimeconfig.cache
+/Users/Rithika.M/Documents/TCE_EI/L100/SOLID_Principles/LSP/C#/Good_Design/obj/Debug/net10.0/ref/Good_Design.dll
