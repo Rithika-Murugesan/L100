@@ -1,4 +1,4 @@
-package L100.SOLID_Principles.Java.Bad_Design;
+package L100.SOLID_Principles.SRP.Java.Bad_Design;
 
 class UserService {
 
