@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Without_Violation/1.0.0": {
+        "runtime": {
+          "Without_Violation.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Without_Violation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
